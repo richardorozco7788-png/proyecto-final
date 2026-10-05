@@ -1,0 +1,16 @@
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\bin\Debug\TIENDA DE CONVENIECIA0.4.exe.config
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\bin\Debug\TIENDA DE CONVENIECIA0.4.exe
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\bin\Debug\TIENDA DE CONVENIECIA0.4.pdb
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA DE CONVENIECIA0.4.csproj.AssemblyReference.cache
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.FrmCarga.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.formulario.FrmCliente.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.formulario.FrmConsultaStock.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.formulario.FrmEmpleado.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.formulario.FrmLogin.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.formulario.FrmRecibo.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.formulario.FrmStock.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA_DE_CONVENIECIA0._4.Properties.Resources.resources
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA DE CONVENIECIA0.4.csproj.GenerateResource.cache
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA DE CONVENIECIA0.4.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA DE CONVENIECIA0.4.exe
+C:\Users\RICHARD ROSTRAN\3D Objects\proyecto final\proyecto final\TIENDA DE CONVENIECIA0.4\obj\Debug\TIENDA DE CONVENIECIA0.4.pdb

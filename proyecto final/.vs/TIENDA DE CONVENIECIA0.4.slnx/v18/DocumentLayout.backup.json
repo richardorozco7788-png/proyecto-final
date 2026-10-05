@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|c:\\users\\richard rostran\\3d objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\datos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\datos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TIENDA DE CONVENIECIA0.4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmconsultastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmconsultastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\tienda de conveniecia0.4\\formulario\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B941D88-4A80-4627-ABC0-F5D8614DFB09}|TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj|solutionrelative:tienda de conveniecia0.4\\formulario\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TIENDA DE CONVENIECIA0.4",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\TIENDA DE CONVENIECIA0.4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-18T01:29:24.619Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\DATOS\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\DATOS\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\DATOS\\ConexionBD.cs",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\DATOS\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:22:33.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmStock.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:05:26.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRecibo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmRecibo.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmRecibo.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmRecibo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmRecibo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:05:17.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCarga.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmCarga.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmCarga.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmCarga.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmCarga.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T23:34:00.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmStock.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmStock.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAhwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:15:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:06:21.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:01:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmConsultaStock.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmConsultaStock.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmConsultaStock.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmConsultaStock.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmConsultaStock.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:05:32.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T01:24:53.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs",
+              "RelativeDocumentMoniker": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs",
+              "ToolTip": "C:\\Users\\RICHARD ROSTRAN\\3D Objects\\proyecto final\\proyecto final\\TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs",
+              "RelativeToolTip": "TIENDA DE CONVENIECIA0.4\\formulario\\FrmEmpleado.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:06:23.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
